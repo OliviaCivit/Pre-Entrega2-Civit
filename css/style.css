@@ -1,0 +1,19 @@
+
+/*font-family: 'Castoro Titling', cursive;*/
+/*font-family: 'Instrument Serif', serif;*/
+/*font-family: 'Noto Serif', serif;*/
+/*font-family: 'Oswald', sans-serif;*/
+
+.barra-mia {
+  background-color: lightgray;
+  color: black;
+  font-family: "Noto Serif", serif;
+  font-weight: bold;
+}
+
+h1 {
+  font-family: "Instrument Serif";
+  font-weight: bold;
+  text-align: center;
+  margin-top: 30px;
+}
